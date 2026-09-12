@@ -1,0 +1,14 @@
+# DevFlow
+
+> DevFlow is a modern cloud deployment platform for building, deploying, and scaling backend microservices and full-stack MERN web applications.
+
+## Key Sections
+- [Platform Overview](https://devflow.live/#hero): Introduction to DevFlow's next-generation infrastructure.
+- [Core Features](https://devflow.live/#features): Detailed specifications for edge deployments, security, and observability.
+- [Customer Case Studies](https://devflow.live/#testimonials): Engineering success stories and performance benchmarks.
+- [Enterprise Contact](https://devflow.live/#contact): Connect with solutions architects for dedicated clusters.
+
+## Features
+- [Instant Edge Deployment](https://devflow.live/#features): Distributed multi-region edge deployment network.
+- [Automated TLS & Security](https://devflow.live/#features): Zero-config SSL certificates and DDoS protection.
+- [Real-Time Telemetry](https://devflow.live/#features): End-to-end tracing and OpenTelemetry logs.
